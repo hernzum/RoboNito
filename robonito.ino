@@ -1,5 +1,3 @@
-
-
 //IRobonito V 2
 //IR remote controlled Robot 
 // (c) hernan Moya
