@@ -1,2 +1,2 @@
 # RoboNito
-robot que esquiba obstaculos
+robot controlado por IR 
