@@ -1,2 +1,2 @@
-# RoboNito
+# RoboNitoIR
 robot controlado por IR 
